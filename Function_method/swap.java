@@ -10,7 +10,7 @@ public class swap {
         b = temp;
         System.out.println("a is= " + a);
         System.out.println("b is= " + b);
-    }
+    } 
 
     public static void main(String args[]) {
         int a = 10;
