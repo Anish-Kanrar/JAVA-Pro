@@ -4,8 +4,8 @@ import java.util.*;
 
 public class ArraysCC {
 
-    public static void update(int marks[],int nonChangable ) {
-        nonChangable=10;
+    public static void update(int marks[], int nonChangable) {
+        nonChangable = 10;
         for (int i = 0; i < marks.length; i++) {
             marks[i] = marks[i] + 1;
         }
@@ -19,7 +19,7 @@ public class ArraysCC {
         System.out.println(nonChangable);
         // print our nonChangablemarks
         for (int i = 0; i < marks.length; i++) {
-            System.out.println(marks[i] + " ");
+            System.out.print(marks[i] + " ");
         }
         System.out.println();
     }
