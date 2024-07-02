@@ -2,7 +2,7 @@ import java.util.*;
 
 public class BinarySearch {
     public static int binary(int num[], int key) {
-        int lb = 0, ub = num.length - 1;
+        int lb =0, ub = num.length - 1;
         while (lb <= ub) {
             int mid = (lb + ub) / 2;
 
