@@ -18,16 +18,19 @@ public class largest {
 //            max=c;
 
      /*   int max=0;
-        if(a>b) max=a;
-        else max=b;
+          if(a>b) 
+            max=a;
+          else 
+            max=b;
 
-        if(c>max) max=c;
+          if(c>max)
+            max=c;
     */
 
-        int max=(Math.max(c,Math.max(a,b)));
-        System.out.println("max of three:"+max);
+          int max=(Math.max(c,Math.max(a,b)));
+          System.out.println("max of three:"+max);
 
-       // System.out.println(Math.max(89,93));   //Math.max
+         // System.out.println(Math.max(89,93));   //Math.max
     }
 }
 
