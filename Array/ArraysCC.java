@@ -22,5 +22,6 @@ public class ArraysCC {
             System.out.print(marks[i] + " ");
         }
         System.out.println();
+        
     }
 }
