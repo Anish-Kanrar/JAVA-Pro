@@ -4,18 +4,19 @@
 /*String methods---->
 
 * 1.length()☑️
- 2.charAt()
+ 2.charAt() ☑️
 3.toUpperCase() ☑️
 4.toLowerCase()☑️
-5.trim()
-6.indexOf()
+5.trim() ☑️
+6.indexOf() ☑️
 7.lastIndexOf()
-8.equals()
+8.equals() ☑️
 9.equalsIgnoreCase()
 10.substring()
 11.compareTo()
-12.concat()
-13.replace()
+12.concat() ☑️
+13.replace() ☑️
+14.isEmpty() ☑️
  */
 
 public class basic{
