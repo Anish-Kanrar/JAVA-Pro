@@ -191,5 +191,8 @@ public class linkedList {
 
         ll.reverse();
         ll.print();
+
+        ll.deleteNthfromEnd(3);
+        ll.print();
     }
 }
